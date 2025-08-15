@@ -41,10 +41,3 @@ For pose correction, the application calculates joint angles and compares them t
 
 ---
 
-## Setup and Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/thanishka220/Yoga-Pose-Correction-main.git
-   cd Yoga-Pose-Correction-main
-
